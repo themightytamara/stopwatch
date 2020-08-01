@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This project requires 10 commits
 
-git instructions:
+# Git
 How to get started
 
 Create a github repository  for this project
