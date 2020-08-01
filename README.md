@@ -14,6 +14,13 @@ clean necessary files with react default content
 create a component folder
 add your component files inside (remember to import and export components)
 Add components and have it render inside of App.js
+
+Required
+Pseudocode-  this includes your personal logic for each JS functionality (variables created, methods used, etc). Especially when citing someone else's code (give a detailed explanation as to what is going on).
+Components folder and file
+UI interface
+SetState() 
+Minimum of 10 commits (anything below will not be looked at)
  
 
 ## Available Scripts
