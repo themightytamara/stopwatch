@@ -2,6 +2,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project requires 10 commits
 
+git instructions:
+How to get started
+
+Create a github repository  for this project
+Initalize a Readme.md file (include a description of the assignment)
+npx create-react-app stopwatch (this will exist inside of your github repository)
+cd stopwatch
+npm start
+clean necessary files with react default content
+create a component folder
+add your component files inside (remember to import and export components)
+Add components and have it render inside of App.js
+ 
+
 ## Available Scripts
 
 In the project directory, you can run:
