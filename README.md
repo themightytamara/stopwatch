@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project requires 10 commits
+## This project requires 10 commits
 
 git instructions:
 How to get started
